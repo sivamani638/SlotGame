@@ -1,0 +1,26 @@
+# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emory[Cc]aptures/
+# NOTE: /Build/ is intentionally NOT ignored - the assignment requires the WebGL build in the repo.
+
+# IDE / OS files
+.vs/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.booproj
+.vscode/
+.DS_Store
+Thumbs.db
+*.pdb
+*.mdb
+*.apk
+*.unitypackage
+sysinfo.txt
